@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Um resumo de como que eu posso utilizar meus conhecimentos para agregar no desenvolvimento das pessoas e empresas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alefmiguel/portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alefmiguel/portfolio/issues"
+  },
+  "homepage": "https://github.com/alefmiguel/portfolio#readme",
+  "dependencies": {
+    "animate.css": "^4.1.1"
+  }
+}
